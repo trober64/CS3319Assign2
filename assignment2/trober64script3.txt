@@ -1,4 +1,4 @@
--- File 3: Tyler Roberts
+-- File 3
 USE trober64assign2db;
 
 -- Query 1
